@@ -1,0 +1,23 @@
+{
+  "name": "Skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-ssh-deploy": "^0.2.9",
+    "load-grunt-config": "^0.17.1"
+  },
+  "devDependencies": {
+    "load-grunt-tasks": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://joaoahmad@bitbucket.org/joaoahmad/skeleton.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
